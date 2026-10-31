@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zicojiao.github.io/enter-key-control-site/sitemap.xml
